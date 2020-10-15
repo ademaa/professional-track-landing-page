@@ -1,1 +1,2 @@
 # professional-track-landing-page
+this page is created using pure javascript, the navbar is dynamicllay created, by counting number of sections of the page then create links within this number and names of sections. when section is in the viewport, an active class added to this section and it's related link on navbar. by clicking on a link it scrolls down to it's related section. when scroll down, an arrow up appears, and by clicking on this arrow it scrolls up to the top of the page.
